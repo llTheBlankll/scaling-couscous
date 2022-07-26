@@ -1,2 +1,5 @@
 spacy
-pyttsx
+pyttsx3
+termcolor
+pyaudio
+SpeechRecognition

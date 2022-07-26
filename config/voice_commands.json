@@ -1,0 +1,27 @@
+[
+  {
+    "visual_studio_code": [
+      "open visual studio code",
+      "can you open visual studio code?",
+      "my assistant, can you open visual studio code?",
+      "let's start coding shall we?"
+    ],
+    "command": "/usr/bin/codium"
+  },
+  {
+    "brave_browser": [
+      "open brave browser",
+      "open brave",
+      "can you open brave browser?"
+    ],
+    "command": "/usr/bin/brave-browser"
+  },
+  {
+    "firefox_browser": [
+      "open firefox browser",
+      "can you open firebox",
+      "open firefox"
+    ],
+    "command": "/usr/bin/firefox-esr"
+  }
+]
