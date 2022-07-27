@@ -23,5 +23,31 @@
       "open firefox"
     ],
     "command": "/usr/bin/firefox-esr"
+  },
+  {
+    "open facebook": [
+      "open facebook website",
+      "open facebook",
+      "open the default browser and go to facebook"
+    ],
+    "command": "{default_browser} facebook.com"
+  },
+  {
+    "open instagram": [
+      "open instagram"
+    ],
+    "command": "{default_browser} instagram.com"
+  },
+  {
+    "open youtube": [
+      "open youtube"
+    ],
+    "command": "{default_browser} youtube.com"
+  },
+  {
+    "open reddit": [
+      "open reddit"
+    ],
+    "command": "{default_browser} reddit.com"
   }
 ]
